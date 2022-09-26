@@ -2,12 +2,12 @@
 I'm currently practicing web development  
 I'm self taught
 
-###📫 My Social Media:
+📫 My Social Media:
 ---
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
-###📈 My GitHub Stats
+📈 My GitHub Stats
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pieropr2k&layout=compact&theme=prussian)](https://github.com/pieropr2k/github-readme-stats)
 
