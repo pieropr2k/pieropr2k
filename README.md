@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m a person who enjoys challenging himself everyday. Always I'm always improving my tech skills to bring quality solutions to the problems. Currently I'm practicing web development.
+I’m a person who enjoys challenging himself everyday. I'm always improving my tech skills to bring quality solutions to the problems. Currently I'm practicing web development.
 
 📫 My Social Media:
 ---
