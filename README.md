@@ -5,9 +5,9 @@ Developer who likes to make apps with Flutter and the MERN stack
 
 🔭 I’m based on Lima, Peru
 
-🌱 I’m currently learning NestJs, GraphQL, Docker and Riverpod
+🌱 I’m currently learning NestJs, GraphQL, Docker, Kubernetes and Riverpod
 
-⚡ I'm currently working on a gym app
+⚡ I'm currently working on a gym app (local version finished in 2 weeks)
 
 👨‍💻 All of my projects are available at https://pieropr2k.github.io/myPortfolio/
 
