@@ -11,6 +11,8 @@ Developer who likes to make apps with Flutter and the MERN stack
 
 👨‍💻 All of my projects are available at https://pieropr2k.github.io/myPortfolio/
 
+⚡ My Codesignal profile: https://app.codesignal.com/profile/pieropr2000
+
 💬 Ask me about React, Flutter and Numpy
 
 📫 My Social Media:
