@@ -39,6 +39,7 @@ Developer who likes to make apps with Flutter and the MERN stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pieropr2k&layout=compact&theme=prussian)](https://github.com/pieropr2k/github-readme-stats)
 
 📈 Leetcode Stats
+---
 ![](https://leetcard.jacoblin.cool/pieropr2k?theme=light&font=Cabin)
 
 <!--
